@@ -1,0 +1,4 @@
+1x PN2222 Transistor
+1x Small 6V DC Motor
+1x 1N4001 diode
+1x 270 Ω Resistor
